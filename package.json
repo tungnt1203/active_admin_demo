@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@activeadmin/activeadmin": "^3",
+    "@tailwindcss/postcss": "^4.1.4",
+    "postcss": "^8.5.3",
+    "vite": "^6.3.3",
+    "vite-plugin-ruby": "^5.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^4.1.4"
+  }
+}
